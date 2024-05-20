@@ -10,11 +10,10 @@ import HomeModule
 
 @main
 struct NewsAppTestApp: App {
-    private let homeRouter = HomeRouter()
-
+   
     var body: some Scene {
         WindowGroup {
-            homeRouter.buildDashboardView()
+            NewsTabBarView()
         }
     }
 }
