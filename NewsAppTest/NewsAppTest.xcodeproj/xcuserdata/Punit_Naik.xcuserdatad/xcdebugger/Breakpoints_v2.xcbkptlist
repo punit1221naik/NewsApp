@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9EFD0A70-B3BD-43D5-9635-3CBE6571DA75"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50A4D825-1171-4109-861F-49543A045F38"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAppTest/ViewModel/ApiServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "getTopHeadlines(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A1B4AF8-1F11-493A-A491-46B4BF5A42DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAppTest/Home/ApiServices/ApiServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "getTopHeadlines(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7A1B4AF8-1F11-493A-A491-46B4BF5A42DF - 802d07d0b04fb6d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NewsAppTest.HomePageApiServices.getTopHeadlines(NewsAppTest.HomePageApiServices.HomePageApi) async throws -&gt; NewsAppTest.NewApiResponse"
+                  moduleName = "NewsAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Punit_Naik/Desktop/Practice/NewsAppTest/NewsAppTest/Home/ApiServices/ApiServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67">
+               </Location>
+               <Location
+                  uuid = "7A1B4AF8-1F11-493A-A491-46B4BF5A42DF - f9e636afdb394f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for NewsAppTest.HomePageApiServices.getTopHeadlines(NewsAppTest.HomePageApiServices.HomePageApi) async throws -&gt; NewsAppTest.NewApiResponse"
+                  moduleName = "NewsAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Punit_Naik/Desktop/Practice/NewsAppTest/NewsAppTest/Home/ApiServices/ApiServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67">
+               </Location>
+               <Location
+                  uuid = "7A1B4AF8-1F11-493A-A491-46B4BF5A42DF - da805c07f99672d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewsAppTest.HomePageApiServices.getTopHeadlines(NewsAppTest.HomePageApiServices.HomePageApi) async throws -&gt; NewsAppTest.NewApiResponse"
+                  moduleName = "NewsAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Punit_Naik/Desktop/Practice/NewsAppTest/NewsAppTest/Home/ApiServices/ApiServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67">
+               </Location>
+               <Location
+                  uuid = "7A1B4AF8-1F11-493A-A491-46B4BF5A42DF - 8e5509e29d8250d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewsAppTest.HomePageApiServices.getTopHeadlines(NewsAppTest.HomePageApiServices.HomePageApi) async throws -&gt; NewsAppTest.NewApiResponse"
+                  moduleName = "NewsAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Punit_Naik/Desktop/Practice/NewsAppTest/NewsAppTest/Home/ApiServices/ApiServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D469791-0D89-45EA-89D9-A539834E1047"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsAppTest/Home/DashboardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D469791-0D89-45EA-89D9-A539834E1047 - 6cc9ab019dd7957d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NewsAppTest.DashboardViewVM.fetchData() async -&gt; ()"
+                  moduleName = "NewsAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Punit_Naik/Desktop/Practice/NewsAppTest/NewsAppTest/Home/DashboardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+               <Location
+                  uuid = "1D469791-0D89-45EA-89D9-A539834E1047 - f3743ea82c72c648"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for NewsAppTest.DashboardViewVM.fetchData() async -&gt; ()"
+                  moduleName = "NewsAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Punit_Naik/Desktop/Practice/NewsAppTest/NewsAppTest/Home/DashboardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+               <Location
+                  uuid = "1D469791-0D89-45EA-89D9-A539834E1047 - fa857913046edb7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NewsAppTest.DashboardViewVM.fetchData() async -&gt; ()"
+                  moduleName = "NewsAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Punit_Naik/Desktop/Practice/NewsAppTest/NewsAppTest/Home/DashboardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+               <Location
+                  uuid = "1D469791-0D89-45EA-89D9-A539834E1047 - b05f162bbb3a6278"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for NewsAppTest.DashboardViewVM.fetchData() async -&gt; ()"
+                  moduleName = "NewsAppTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Punit_Naik/Desktop/Practice/NewsAppTest/NewsAppTest/Home/DashboardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAA8F178-8138-47FD-94C7-984CC84282E1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeModule/Sources/HomeModule/Home/DashboardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F5D3A7E-ED13-4B36-A5D4-731D2BB5C418"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeModule/Sources/HomeModule/Home/HomeRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "buildDashboardView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DBF1BD8-9BAD-473C-B605-48A880523C63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeModule/Sources/HomeModule/Home/HomeRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "makeDashboardView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBF60013-4CD2-4803-8060-3CE9290ABAEC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetworkLayer/Sources/NetworkLayerTest/NetworkLayerTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "generateURLRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDE26A76-1844-450C-BA70-8922814CACE7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetworkLayer/Sources/NetworkLayerTest/NetworkLayerTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "generateURLRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
