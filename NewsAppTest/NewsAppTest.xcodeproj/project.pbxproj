@@ -10,8 +10,6 @@
 		B82453AE2BF7752600B1C750 /* HomeModule in Frameworks */ = {isa = PBXBuildFile; productRef = B82453AD2BF7752600B1C750 /* HomeModule */; };
 		B82453B12BF7753400B1C750 /* NetworkLayer in Frameworks */ = {isa = PBXBuildFile; productRef = B82453B02BF7753400B1C750 /* NetworkLayer */; };
 		B8EFD5842BF342BE00DEC7E3 /* NewsAppTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8EFD5832BF342BE00DEC7E3 /* NewsAppTestApp.swift */; };
-		B8EFD5862BF342BE00DEC7E3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8EFD5852BF342BE00DEC7E3 /* ContentView.swift */; };
-		B8EFD5882BF342BE00DEC7E3 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8EFD5872BF342BE00DEC7E3 /* Item.swift */; };
 		B8EFD58A2BF342BF00DEC7E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8EFD5892BF342BF00DEC7E3 /* Assets.xcassets */; };
 		B8EFD58D2BF342BF00DEC7E3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8EFD58C2BF342BF00DEC7E3 /* Preview Assets.xcassets */; };
 		B8EFD5972BF342BF00DEC7E3 /* NewsAppTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8EFD5962BF342BF00DEC7E3 /* NewsAppTestTests.swift */; };
@@ -54,8 +52,6 @@
 		B82453AB2BF774D100B1C750 /* HomeModule */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = HomeModule; sourceTree = "<group>"; };
 		B8EFD5802BF342BE00DEC7E3 /* NewsAppTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewsAppTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8EFD5832BF342BE00DEC7E3 /* NewsAppTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsAppTestApp.swift; sourceTree = "<group>"; };
-		B8EFD5852BF342BE00DEC7E3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		B8EFD5872BF342BE00DEC7E3 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		B8EFD5892BF342BF00DEC7E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B8EFD58C2BF342BF00DEC7E3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B8EFD5922BF342BF00DEC7E3 /* NewsAppTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewsAppTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -119,8 +115,6 @@
 			isa = PBXGroup;
 			children = (
 				B8EFD5832BF342BE00DEC7E3 /* NewsAppTestApp.swift */,
-				B8EFD5852BF342BE00DEC7E3 /* ContentView.swift */,
-				B8EFD5872BF342BE00DEC7E3 /* Item.swift */,
 				B8EFD5892BF342BF00DEC7E3 /* Assets.xcassets */,
 				B8EFD58B2BF342BF00DEC7E3 /* Preview Content */,
 			);
@@ -300,8 +294,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B8EFD5862BF342BE00DEC7E3 /* ContentView.swift in Sources */,
-				B8EFD5882BF342BE00DEC7E3 /* Item.swift in Sources */,
 				B8EFD5842BF342BE00DEC7E3 /* NewsAppTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
