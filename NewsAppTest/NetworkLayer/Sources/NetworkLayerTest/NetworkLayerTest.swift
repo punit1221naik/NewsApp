@@ -128,7 +128,7 @@ extension URLSession: DataServices {
 
 class MockDataServices: DataServices {
     enum Constants {
-        static let fileName = "SimilarMoviesResponse"
+        static let fileName = "SampleJson"
     }
     
     
